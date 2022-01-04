@@ -19,4 +19,4 @@
   <img height="55em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
-![Snake animation](https://github.com/ErickGomes2805/blob/output/github-contribution-grid-snake.svg)
+
