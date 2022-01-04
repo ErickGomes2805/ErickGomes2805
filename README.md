@@ -1,7 +1,7 @@
 # Ola! Eu sou o Erick, seja muito bem vindo(a) ao meu perfil 😎.
 📘 Constantemente aprendendo e evoluindo. <br>
 💻 Procurando novos desafios.<br>
-💡 Iseias e soluções para seus projetos.
+💡 Ideias e soluções para seus projetos.
 
 <div>
  
